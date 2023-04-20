@@ -1,0 +1,402 @@
+<div class="section"> 
+    <table style="width: 100%;border-bottom:2px solid black;" class="no-break-in-between" cellspacing="0" cellpadding="0"> 
+        <tbody> 
+            <tr> 
+                <td colspan="2" class="cursor-hover" style="vertical-align: top; text-align:center;"> 
+                    <p class="title cursor-hover"> PRE-CHEMOTHERAPY CHECKLIST 
+                    </p> 
+                </td> 
+            </tr> 
+        </tbody> 
+    </table>
+</div>
+<br>
+<table style="max-width: 850px; text-align: center" width="100%" border="1"> 
+    <tbody> 
+        <tr style="height: 35px; width: 40%"> 
+            <td style="height: 35px; background-color: #f2f2f2;"> 
+                <p> 
+                    <strong> Description 
+                    </strong> 
+                </p> 
+            </td> 
+            <td style="height: 35px; width: 60%; background-color: #f2f2f2;"> 
+                <p> 
+                    <strong> Remarks 
+                    </strong> 
+                </p> 
+            </td> 
+        </tr> 
+        <tr style="height: 125px;"> 
+            <td style="height: 125px; width: 40%"> 
+                <p>Date of Consent 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>_________ / _________ / _________ 
+                </p> 
+            </td> 
+            <td style="height: 125px; width: 60%"> 
+                <p> 
+                </p> 
+                <table style="max-width: 600px" width="100%"> 
+                    <tbody> 
+                        <tr> 
+                            <td style="width: 2%"> 
+                                <p> 
+                                </p> 
+                            </td> 
+                            <td style="border: 1px solid black; width= 10%"> 
+                                <p> 
+                                </p> 
+                            </td> 
+                            <td style="width: 88%; text-align: center"> 
+                                <p> &nbsp;Chemotherapy 
+                                </p> 
+                            </td> 
+                        </tr> 
+                        <tr> 
+                            <td style="width: 2%"> 
+                                <p> 
+                                </p> 
+                            </td> 
+                            <td style="border: 1px solid black; width= 10%"> 
+                                <p> 
+                                </p> 
+                            </td> 
+                            <td style="width: 88%; text-align: center"> 
+                                <p> &nbsp;Targeted therapy 
+                                </p> 
+                            </td> 
+                        </tr> 
+                        <tr> 
+                            <td style="width: 2%"> 
+                                <p> 
+                                </p> 
+                            </td> 
+                            <td style="border: 1px solid black; width= 10%"> 
+                                <p> 
+                                </p> 
+                            </td> 
+                            <td style="width: 88%; text-align: center"> 
+                                <p> &nbsp;Immunotherapy 
+                                </p> 
+                            </td> 
+                        </tr> 
+                    </tbody> 
+                </table> 
+            </td> 
+        </tr> 
+        <tr style="height: 108px;"> 
+            <td style="height: 108px; width: 40%"> 
+                <p>Blood Test Result 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>_________ / _________ / _________ 
+                </p> 
+            </td> 
+            <td style="height: 108px; width: 60%"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr style="height: 108px;"> 
+            <td style="height: 108px; width: 40%"> 
+                <p>Date to Commence Chemotherapy 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>_________ / _________ / _________ 
+                </p> 
+            </td> 
+            <td style="height: 108px; width: 60%"> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr style="height: 44px;"> 
+            <td style="height: 44px; width: 40%"> 
+                <p>Dosage Changed 
+                </p> 
+            </td> 
+            <td style="height: 44px; width: 60%"> 
+                <table style="max-width: 600px" width="100%"> 
+                    <tbody> 
+                        <tr> 
+                            <td style="width: 2%"> 
+                                <p> 
+                                </p> 
+                            </td> 
+                            <td style="border: 1px solid black; width: 10%"> 
+                                <p>&nbsp; 
+                                </p> 
+                            </td> 
+                            <td style="width: 25%"> 
+                                <p>&nbsp;Yes 
+                                </p> 
+                            </td> 
+                            <td style="border: 1px solid black; width: 10%"> 
+                                <p>&nbsp; 
+                                </p> 
+                            </td> 
+                            <td style="width: 53%"> 
+                                <p>&nbsp;No 
+                                </p> 
+                            </td> 
+                        </tr> 
+                    </tbody> 
+                </table> 
+            </td> 
+        </tr> 
+        <tr style="height: 108px;"> 
+            <td style="height: 108px; width: 40%"> 
+                <p>Next Chemotherapy Due 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>_________ / _________ / _________ 
+                </p> 
+            </td> 
+            <td style="height: 108px; width: 60%"> 
+                <p>Cycle: ____________&nbsp;&nbsp;&nbsp;&nbsp; Day: ____________&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Protocol: ____________ 
+                </p> 
+            </td> 
+        </tr> 
+        <tr style="height: 108px;"> 
+            <td style="height: 108px; width: 40%"> 
+                <p>Next Cycle Blood Test Due 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>_________ / _________ / _________ 
+                </p> 
+            </td> 
+            <td style="height: 108px; width: 60%"> 
+                <p>Type of Blood Test: ____________ 
+                </p> 
+            </td> 
+        </tr> 
+        <tr style="height: 59px;"> 
+            <td style="height: 59px; width: 40%"> 
+                <p>Prescription 
+                </p> 
+                <p>(Take Home Medication) 
+                </p> 
+            </td> 
+            <td style="height: 59px; width: 60%"> 
+                <table style="max-width: 600px" width="100%"> 
+                    <tbody> 
+                        <tr> 
+                            <td style="width: 2%"> 
+                                <p> 
+                                </p> 
+                            </td> 
+                            <td style="border: 1px solid black; width: 10%"> 
+                                <p>&nbsp; 
+                                </p> 
+                            </td> 
+                            <td style="width: 25%"> 
+                                <p>&nbsp;Yes 
+                                </p> 
+                            </td> 
+                            <td style="border: 1px solid black; width: 10%"> 
+                                <p>&nbsp; 
+                                </p> 
+                            </td> 
+                            <td style="width: 53%"> 
+                                <p>&nbsp;No 
+                                </p> 
+                            </td> 
+                        </tr> 
+                    </tbody> 
+                </table> 
+            </td> 
+        </tr> 
+        <tr style="height: 44px;"> 
+            <td style="height: 44px; width: 40%"> 
+                <p>Consultant to Review 
+                </p> 
+            </td> 
+            <td style="height: 44px; width: 60%"> 
+                <table style="max-width: 600px" width="100%"> 
+                    <tbody> 
+                        <tr> 
+                            <td style="width: 2%"> 
+                                <p> 
+                                </p> 
+                            </td> 
+                            <td style="border: 1px solid black; width: 10%"> 
+                                <p>&nbsp; 
+                                </p> 
+                            </td> 
+                            <td style="width: 25%"> 
+                                <p>&nbsp;Yes 
+                                </p> 
+                            </td> 
+                            <td style="border: 1px solid black; width: 10%"> 
+                                <p>&nbsp; 
+                                </p> 
+                            </td> 
+                            <td style="width: 53%"> 
+                                <p>&nbsp;No 
+                                </p> 
+                            </td> 
+                        </tr> 
+                    </tbody> 
+                </table> 
+            </td> 
+        </tr> 
+    </tbody>
+</table>
+<p>&nbsp;
+</p>
+<style> .outer-border {
+    border: 1px solid black;
+    border-collapse: collapse;
+    }
+</style>&nbsp;&nbsp;
+<p>
+</p>
+<p>
+</p>
+<table class="outer-border" width="850px"> 
+    <tbody> 
+        <tr> 
+            <td style="border: 1px solid black; background-color: #f2f2f2;" colspan="7" width="699"> 
+                <p> 
+                    <strong> Special Instruction 
+                    </strong> 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td colspan="7" style="height: 44px;" width="800px"> 
+                <p> 
+                </p> 
+                <p>_______________________________________________________________________________________________________________________ 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td colspan="7" width="699"> 
+                <p>_______________________________________________________________________________________________________________________ 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td colspan="3" width="189"> 
+                <p> 
+                </p> 
+                <p> 
+                </p> 
+                <p> 
+                    <strong> Oncologist’s Initial and Stamp 
+                    </strong> 
+                </p> 
+            </td> 
+            <td colspan="4" width="510"> 
+                <p> 
+                    <strong> : ______________________________ 
+                    </strong> 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td colspan="7" width="699"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td colspan="2" width="95"> 
+                <p> 
+                    <strong> Send By 
+                    </strong> 
+                </p> 
+            </td> 
+            <td colspan="2" width="255"> 
+                <p>: _________________________________ 
+                </p> 
+            </td> 
+            <td colspan="2" width="95"> 
+                <p> 
+                    <strong> Received By 
+                    </strong> 
+                </p> 
+            </td> 
+            <td width="255"> 
+                <p>: _________________________________ 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td colspan="2" width="95"> 
+                <p> 
+                    <strong> &nbsp; 
+                    </strong> 
+                </p> 
+            </td> 
+            <td colspan="2" style="text-align: center;" width="255"> 
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;Staff Name &amp; Signature 
+                </p> 
+            </td> 
+            <td colspan="2" width="95"> 
+                <p> 
+                    <strong> &nbsp; 
+                    </strong> 
+                </p> 
+            </td> 
+            <td style="text-align: center;" width="255"> 
+                <p>&nbsp;&nbsp;&nbsp;&nbsp;Staff Name &amp; Signature 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td colspan="2" width="95"> 
+                <p> 
+                    <strong> Department 
+                    </strong> 
+                </p> 
+            </td> 
+            <td colspan="2" width="255"> 
+                <p>: _________________________________ 
+                </p> 
+            </td> 
+            <td colspan="2" width="95"> 
+                <p> 
+                    <strong> Department 
+                    </strong> 
+                </p> 
+            </td> 
+            <td width="255"> 
+                <p>: _________________________________ 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td colspan="2" width="95"> 
+                <p> 
+                    <strong> Date 
+                    </strong> 
+                </p> 
+            </td> 
+            <td colspan="2" width="255"> 
+                <p>: _________________________________ 
+                </p> 
+            </td> 
+            <td colspan="2" width="95"> 
+                <p> 
+                    <strong> Date 
+                    </strong> 
+                </p> 
+            </td> 
+            <td width="255"> 
+                <p>: _________________________________ 
+                </p> 
+            </td> 
+        </tr> 
+    </tbody>
+</table>

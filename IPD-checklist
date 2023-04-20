@@ -1,0 +1,697 @@
+<div class="section"> 
+    <table style="width: 100%;border-bottom:2px solid black;" class="no-break-in-between" cellspacing="0" cellpadding="0"> 
+        <tbody> 
+            <tr> 
+                <td colspan="2" class="cursor-hover" style="vertical-align: top; text-align:center;"> 
+                    <p class="title cursor-hover"> IN-PATIENT CHECKLIST 
+                    </p> 
+                </td> 
+            </tr> 
+        </tbody> 
+    </table>
+</div>
+<br> 
+<table style="font-size: 15px; border: 1px solid black; max-width: 800px" width="100%"> 
+    <tbody> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <strong> No 
+                </strong> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <strong> Description 
+                </strong> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%; text-align: center;"> 
+                <strong> Qty 
+                </strong> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%; text-align: center;"> 
+                <strong> Ward 
+                </strong> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%; text-align: center;"> 
+                <strong> MRD 
+                </strong> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>1. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>Registration Form 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>2. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>Admission Request / Letter 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>3. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>Discharge Summary 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>4. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>Operation Record / Endoscopy Record 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>5. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>Anaesthetic Record 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>6. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>Consent (Please state) ____________________________ 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>7. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>OT Intraoperative Record 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>8. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>Operating Room Surgical Safety Checklist 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>9. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>Post Anaesthesia Discharge Scouring Guideline 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>10. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>Pre / Post-Operative Procedure Checklist 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>11. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>In-Patient Prescription 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>12. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>Outpatient Prescription (TTH) 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>13. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>Clinical Progress Notes 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>14. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>Nursing Assessment and Care Plan 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>15. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>Nursing Notes 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>16. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>Observation Chart &amp; Neurological Chart 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>17. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>Intake Output Chart 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>18. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>General Chart 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>19. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>Morphine Continuous Infusion Flow Chart 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>20. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>Pain &amp; Sedation Assessment 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>21. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>Ward Orientation Checklist 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>22. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>Discharge Checklist 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p>23. 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p>Discharge Slip 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p> 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p> 
+                    <strong> &nbsp; 
+                    </strong> 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p> 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p> 
+                    <strong> &nbsp; 
+                    </strong> 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p> 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p> 
+                    <strong> &nbsp; 
+                    </strong> 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p> 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p> 
+                    <strong> &nbsp; 
+                    </strong> 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black; width: 5%;"> 
+                <p> 
+                </p> 
+            </td> 
+            <td colspan="2" style="border: 1px solid black; width: 50%;"> 
+                <p> 
+                    <strong> &nbsp; 
+                    </strong> 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black; width: 15%;"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+    </tbody>
+</table> &nbsp; 
+<table style="font-size: 15px; border: 1px solid black; max-width: 800px" width="100%"> 
+    <tbody> 
+        <tr> 
+            <td colspan="6" style="width: 100%;"> 
+                <p> 
+                    <strong>Completed &amp; Checked By : 
+                    </strong> 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td colspan="2" style="width: 50%;"> 
+                <p> Ward Staff Name : _________________________________ 
+                </p> 
+            </td> 
+            <td colspan="4" style="width: 50%;"> 
+                <p> MRD Staff Name : _________________________________ 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td colspan="2" style="width: 50%;"> 
+                <p> Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: _________________________________ 
+                </p> 
+            </td> 
+            <td colspan="4" style="width: 50%;"> 
+                <p> Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: _________________________________ 
+                </p> 
+            </td> 
+        </tr> 
+    </tbody>
+</table>

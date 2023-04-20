@@ -1,0 +1,211 @@
+<div class="section"> 
+    <table style="width: 100%;border-bottom:2px solid black;" class="no-break-in-between" cellspacing="0" cellpadding="0"> 
+        <tbody> 
+            <tr> 
+                <td colspan="2" class="cursor-hover" style="vertical-align: top; text-align:center;"> 
+                    <p class="title cursor-hover"> POLICE REPORT BROUGHT-IN DEAD 
+                    </p> 
+                </td> 
+            </tr> 
+        </tbody> 
+    </table>
+</div>
+<br>
+<table style="font-size: 15px; border: 1px solid black; max-width: 800px" class="cursor-hover" width="100%"> 
+    <tbody> 
+        <tr> 
+            <td colspan="4" style="background-color: #f2f2f2; border: 1px solid black; width: 100%;" class="cursor-hover"> 
+                <strong> Brought-In By: 
+                </strong> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="94"> Name: 
+            </td> 
+            <td width="236"> 
+                <p>: ________________________ 
+                </p> 
+            </td> 
+            <td width="94"> 
+                <p>Relationship 
+                </p> 
+            </td> 
+            <td width="176"> 
+                <p>: _____________________ 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="94"> 
+                <p>IC No. / Passport No 
+                </p> 
+            </td> 
+            <td width="236"> 
+                <p>: ________________________ 
+                </p> 
+            </td> 
+            <td width="94"> 
+                <p>Contact No. 
+                </p> 
+            </td> 
+            <td width="176"> 
+                <p>: _____________________ 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td colspan="4" width="601"> 
+                <p>Vehicle Model &amp; Registration No: ______________________________________________ 
+                </p> 
+            </td> 
+        </tr> 
+    </tbody>
+</table>&nbsp;
+<table style="font-size: 15px; border: 1px solid black; max-width: 800px; text-align: left;" width="100%"> 
+    <tbody> 
+        <tr> 
+            <td colspan="2" style="background-color: #f2f2f2; border: 1px solid black; width: 100%;"> 
+                <strong>If Motor-Vehicle Accident (MVA): 
+                </strong> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="132"> 
+                <p>Place of Accident: 
+                </p> 
+                <p>(Please&nbsp;provide 
+                </p> 
+                <p>landmark/road) 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="border: 1px solid black;" width="469"> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="border: 1px solid black;" width="132"> 
+                <p>Nature of Accident: 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="469"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+    </tbody>
+</table>&nbsp;
+<table style="font-size: 15px; border: 1px solid black; max-width: 800px; text-align: left;" width="100%"> 
+    <tbody> 
+        <tr> 
+            <td colspan="3" style="width: 100%;"> 
+                <p>I, the undersigned Police Officer, hereby acknowledge receipt / authorize the release without post mortem (delete where appropriate) the body of the above-named deceased. 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td colspan="2" style="width: 60%;"> 
+                <p>Signature: 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>____________________________ 
+                </p> 
+            </td> 
+            <td rowspan="3" style="width: 40%; vertical-align: top;"> 
+                <p>Witnessed by (MO signature): 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="width: 15%;"> 
+                <p>Name 
+                </p> 
+            </td> 
+            <td style="width: 45%;"> 
+                <p>: _____________________________ 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="width: 15%;"> 
+                <p>Designation 
+                </p> 
+            </td> 
+            <td style="width: 45%;"> 
+                <p>: _____________________________ 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="width: 15%;"> 
+                <p>Police ID No 
+                </p> 
+            </td> 
+            <td style="width: 45%;"> 
+                <p>: _____________________________ 
+                </p> 
+            </td> 
+            <td rowspan="4" style="width: 40%; vertical-align: top;"> 
+                <p>Name and stamp: 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="width: 15%;"> 
+                <p>Police Station 
+                </p> 
+            </td> 
+            <td style="width: 45%;"> 
+                <p>: _____________________________ 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="width: 15%;"> 
+                <p>Date/Time 
+                </p> 
+            </td> 
+            <td style="width: 45%;"> 
+                <p>: _____________________________ 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="width: 15%;"> 
+                <p>Remarks 
+                </p> 
+            </td> 
+            <td style="width: 45%;"> 
+                <p>: _____________________________ 
+                </p> 
+            </td> 
+        </tr> 
+    </tbody>
+</table> 

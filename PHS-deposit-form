@@ -1,0 +1,333 @@
+<div class="section"> 
+    <table style="width: 100%;border-bottom:2px solid black;" class="no-break-in-between" cellspacing="0" cellpadding="0"> 
+        <tbody> 
+            <tr> 
+                <td colspan="2" class="cursor-hover" style="vertical-align: top; text-align:center;"> 
+                    <p class="title cursor-hover"> PALLIATIVE HOME SERVICES DEPOSIT FORM 
+                    </p> 
+                </td> 
+            </tr> 
+        </tbody> 
+    </table>
+</div>
+<br>
+<table style="font-size: 12px; border: 1px solid black; max-width: 900px;" width="100%"> 
+    <tbody> 
+        <tr> 
+            <td style="text-align:center; background-color: #f2f2f2; border: 1px solid black; width: 5%;"> 
+                <strong> NO. 
+                </strong> 
+            </td> 
+            <td style="text-align:left; background-color: #f2f2f2; border: 1px solid black; width: 55%;" class="cursor-hover"> 
+                <strong> &nbsp;DESCRIPTION 
+                </strong> 
+            </td> 
+            <td style="text-align:center; background-color: #f2f2f2; border: 1px solid black; width: 20%;"> 
+                <strong> AMOUNT (MYR) 
+                </strong> 
+            </td> 
+            <td style="text-align:center; background-color: #f2f2f2; border: 1px solid black; width: 20%;" class="cursor-hover"> 
+                <strong>TICK (√) 
+                </strong> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; border: 1px solid black; width: 5%;"> 1 
+            </td> 
+            <td style="text-align:left; border: 1px solid black; width: 55%;" class="cursor-hover"> &nbsp;Palliative Home Service Enrolment Deposit 
+            </td> 
+            <td style="text-align:center; border: 1px solid black; width: 20%;" class="cursor-hover"> 500 
+            </td> 
+            <td style="text-align:center; border: 1px solid black; width: 20%;" class="cursor-hover"> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; border: 1px solid black; width: 5%;"> 2 
+            </td> 
+            <td style="text-align:left; border: 1px solid black; width: 55%;" class="cursor-hover"> &nbsp;Palliative Home Service Loan Machine Deposit 
+            </td> 
+            <td style="text-align:center; border: 1px solid black; width: 20%;" class="cursor-hover"> 500 
+            </td> 
+            <td style="text-align:center; border: 1px solid black; width: 20%;" class="cursor-hover"> 
+            </td> 
+        </tr> 
+    </tbody>
+</table>
+<br>
+<table style="font-size: 12px; border: 1px solid black; max-width: 900px;" width="100%"> 
+    <tbody> 
+        <tr> 
+            <td style="text-align:center; border: 1px solid black; width: 20%; background-color: #f2f2f2;"> 
+                <strong> Device Serial No. 
+                </strong> 
+            </td> 
+            <td style="text-align:center; border: 1px solid black; width: 10%; background-color: #f2f2f2;"> 
+                <strong> Qty 
+                </strong> 
+            </td> 
+            <td style="text-align:center; border: 1px solid black; width: 20%; background-color: #f2f2f2;" class="cursor-hover"> 
+                <strong class="cursor-hover"> Date of Item Loaned 
+                </strong> 
+            </td> 
+            <td style="text-align:center; border: 1px solid black; width: 25%; background-color: #f2f2f2;" class="cursor-hover"> 
+                <strong class="cursor-hover"> Date of Item Returned 
+                </strong> 
+            </td> 
+            <td style="text-align:center; border: 1px solid black; width: 25%; background-color: #f2f2f2;" class="cursor-hover"> 
+                <strong> Condition when Returned 
+                </strong> 
+                <br> 
+                <strong> (Good, Fair, Poor) 
+                </strong> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; border: 1px solid black; width: 20%;"> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="text-align:center; border: 1px solid black; width: 10%;"> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="text-align:center; border: 1px solid black; width: 20%;" class="cursor-hover"> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td style="text-align:center; border: 1px solid black; width: 25%;" class="cursor-hover"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td style="text-align:center; border: 1px solid black; width: 25%;" class="cursor-hover"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+    </tbody>
+</table>
+<p class="cursor-hover">&nbsp;
+</p>
+<p class="cursor-hover">I, _________________________________________ NRIC / Passport No. ____________________________________ hereby understand that the equipment above is being loaned to me by Beacon Hospital, and will remain the property of Beacon Hospital. I understand that I will maintain the equipment. If any, or part of the equipment is damaged or lost through my own negligence, I shall be responsible for the cost of repair or pay up the current value of the equipment.
+</p>
+<table colspan="4" style="font-size: 15px; max-width: 900px;" class="cursor-hover" width="100%"> 
+    <tbody> 
+        <tr> 
+            <td style="width: 15%;"> 
+                <p>Name 
+                </p> 
+            </td> 
+            <td style="width: 35%;"> 
+                <p>: _______________________________ 
+                </p> 
+            </td> 
+            <td style="width: 15%;" class="cursor-hover"> 
+                <p>Contact Number 
+                </p> 
+            </td> 
+            <td style="width: 35%;" class="cursor-hover"> 
+                <p class="cursor-hover">: _______________________________ 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="width: 15%;"> 
+                <p>NRIC 
+                </p> 
+            </td> 
+            <td style="width: 35%;" class="cursor-hover"> 
+                <p>: _______________________________ 
+                </p> 
+            </td> 
+            <td style="width: 15%; vertical-align: top;"> 
+                <p>Relationship 
+                </p> 
+            </td> 
+            <td style="width: 35%;" class="cursor-hover"> 
+                <p class="cursor-hover">: _______________________________ 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="width: 15%; vertical-align: top;"> 
+                <p>Signature 
+                </p> 
+            </td> 
+            <td> 
+                <p>: 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; _______________________________ 
+                </p> 
+            </td> 
+        </tr> 
+    </tbody>
+</table>
+<p class="cursor-hover">&nbsp;
+</p>
+<table colspan="4" style="font-size: 15px; max-width: 900px;" class="cursor-hover" width="100%"> 
+    <tbody> 
+        <tr> 
+            <td colspan="4" style="width: 100%;" class="cursor-hover"> 
+                <p class="cursor-hover"> 
+                    <strong>Ordered by (Palliative Nurse): 
+                    </strong> 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 15%;"> 
+                <p>Name 
+                </p> 
+            </td> 
+            <td style="text-align:center; width: 35%;"> 
+                <p>: _______________________________ 
+                </p> 
+            </td> 
+            <td style="text-align:center; width: 15%;" class="cursor-hover"> 
+                <p class="cursor-hover">Date 
+                </p> 
+            </td> 
+            <td style="text-align:center; width: 35%;" class="cursor-hover"> 
+                <p class="cursor-hover">: _______________________________ 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 15%; vertical-align: top;"> 
+                <p>Signature 
+                </p> 
+            </td> 
+            <td class="cursor-hover"> 
+                <p>: 
+                </p> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+                <p class="cursor-hover">&nbsp; _______________________________ 
+                </p> 
+            </td> 
+        </tr> 
+    </tbody>
+</table>
+<p class="cursor-hover">&nbsp;
+</p>
+<table style="font-size: 15px; max-width: 900px;" class="cursor-hover" width="100%"> 
+    <tbody> 
+        <tr> 
+            <td colspan="4" style="width: 100%;" class="cursor-hover"> 
+                <p class="cursor-hover"> 
+                    <strong>Discontinued by (Palliative Nurse): 
+                    </strong> 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 15%;"> 
+                <p>Name 
+                </p> 
+            </td> 
+            <td style="text-align:center; width: 35%;"> 
+                <p class="cursor-hover">: _______________________________ 
+                </p> 
+            </td> 
+            <td style="text-align:center; width: 15%;"> 
+                <p>Date 
+                </p> 
+            </td> 
+            <td style="text-align:center; width: 35%;" class="cursor-hover"> 
+                <p class="cursor-hover">: _______________________________ 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 15%; vertical-align: top;"> 
+                <p>Signature 
+                </p> 
+            </td> 
+            <td class="cursor-hover"> 
+                <p class="cursor-hover">: 
+                </p> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+                <p>&nbsp; _______________________________ 
+                </p> 
+            </td> 
+        </tr> 
+    </tbody>
+</table>
+<p class="cursor-hover">&nbsp;--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</p>
+<table style="font-size: 15px; max-width: 900px;" width="100%"> 
+    <tbody> 
+        <tr> 
+            <td style="text-align:center; width: 100%;" colspan="4" class="cursor-hover"> 
+                <p class="cursor-hover"> 
+                    <strong> 
+                        <em> 
+                            <u>FOR BUSINESS OFFICE USE ONLY 
+                            </u> 
+                        </em> 
+                    </strong> 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:left; width: 15%;"> Amount to be Refunded 
+            </td> 
+            <td style="text-align:center; width: 85%;" colspan="3" class="cursor-hover"> 
+                <p>: MYR___________________ 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:centre; width: 100%;" colspan="4"> 
+                <p>Refund by (Business Office Staff): 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 15%;"> 
+                <p>Name 
+                </p> 
+            </td> 
+            <td style="text-align:center; width: 35%;"> 
+                <p>:_______________________________ 
+                </p> 
+            </td> 
+            <td style="text-align:center; width: 15%;"> 
+                <p>Date 
+                </p> 
+            </td> 
+            <td style="text-align:center; width: 35%;"> 
+                <p>: _______________________________ 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 15%; vertical-align: top;"> 
+                <p>Signature 
+                </p> 
+            </td> 
+            <td style="text-align:center; width: 85%;" colspan="3"> 
+                <p>: 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; _______________________________ 
+                </p> 
+            </td> 
+        </tr> 
+    </tbody>
+</table>
+<p>&nbsp;
+</p> 

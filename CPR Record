@@ -1,0 +1,1220 @@
+<style> table {
+    border-collapse: collapse;
+    width: 100%;
+    }
+    table th, table td {
+        border: 1px solid black;
+        padding: 0px;
+        text-align: left;
+        font-size: 16px !important;
+        /* Add the desired font size here and increase priority using !important */ }
+    th {
+        background-color: #f2f2f2;
+    }
+</style>
+<table style="max-width: 900px;" class="cursor-hover" width="100%"> 
+    <tbody> 
+        <tr> 
+            <td class="cursor-hover" width="27%"> 
+                <p class="cursor-hover"> 
+                    <strong class="cursor-hover">Admission Diagnosis 
+                    </strong> 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="23%"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="18%"> 
+                <p class="cursor-hover">Department Coded
+                </p> 
+            </td> 
+            <td colspan="2" class="cursor-hover" width="32%"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td class="cursor-hover" width="27%"> 
+                <p class="cursor-hover">Initiation of Code Blue by 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="23%"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td colspan="2" class="cursor-hover" width="25%"> 
+                <p class="cursor-hover">Date : 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="25%"> 
+                <p class="cursor-hover">Timing :&nbsp;
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td colspan="2" class="cursor-hover" width="50%"> 
+                <p class="cursor-hover">Cardiopulmonary Resuscitation (CPR) 
+                </p> 
+            </td> 
+            <td colspan="2" class="cursor-hover" width="25%"> 
+                <p class="cursor-hover">Time Start : 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="25%"> 
+                <p class="cursor-hover">Time Ended : 
+                </p> 
+            </td> 
+        </tr> 
+    </tbody>
+</table>
+<p class="cursor-hover">&nbsp;
+</p>
+<table width="718"> 
+    <tbody> 
+        <tr> 
+            <td colspan="6" style="background-color: #DBDBDB;" class="cursor-hover" width="718"> 
+                <p class="cursor-hover"> 
+                    <strong class="cursor-hover">Team Response 
+                    </strong> 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td class="cursor-hover" width="113"> 
+                <p> 
+                    <strong>Medical Personnel 
+                    </strong> 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="167"> 
+                <p class="cursor-hover"> 
+                    <strong>Name 
+                    </strong> 
+                </p> 
+            </td> 
+            <td width="79"> 
+                <p> 
+                    <strong>Arrival Time (hrs) 
+                    </strong> 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="132"> 
+                <p class="cursor-hover"> 
+                    <strong class="cursor-hover">Paramedical 
+                    </strong> 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="154"> 
+                <p class="cursor-hover"> 
+                    <strong>Name 
+                    </strong> 
+                </p> 
+            </td> 
+            <td width="73"> 
+                <p> 
+                    <strong>Arrival Time (hrs) 
+                    </strong> 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="113"> 
+                <p>Emergency Dr. 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="167"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td width="79"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td width="132"> 
+                <p>Nurse Manager/DNA 
+                </p> 
+            </td> 
+            <td width="154"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td width="73"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="113"> 
+                <p>Consultant 
+                </p> 
+            </td> 
+            <td width="167"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td width="79"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="132"> 
+                <p class="cursor-hover">Pharmacist 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="154"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td width="73"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="113"> 
+                <p>Anesthetist 
+                </p> 
+            </td> 
+            <td width="167"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="79"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="132"> 
+                <p class="cursor-hover">ICU Staff 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="154"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td width="73"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="113"> 
+                <p>Others 
+                </p> 
+            </td> 
+            <td width="167"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="79"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="132"> 
+                <p>A&amp;E Staff 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="154"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td width="73"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="113"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="167"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="79"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="132"> 
+                <p>Others 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="154"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td width="73"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="113"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="167"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="79"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="132"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="154"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td width="73"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="113"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="167"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="79"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="132"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="154"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="73"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="113"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="167"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="79"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="132"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="154"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="73"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="113"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="167"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="79"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="132"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="154"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td width="73"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="113"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="167"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="79"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="132"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="154"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="73"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="113"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="167"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="79"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="132"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="154"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="73"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="113"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="167"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="79"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td width="132"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td width="154"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td width="73"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="113"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="167"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="79"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="132"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="154"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="73"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="113"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="167"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="79"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td width="132"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="154"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td width="73"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+    </tbody>
+</table>
+<p class="cursor-hover">&nbsp;
+</p>
+<table class="cursor-hover" width="718"> 
+    <tbody> 
+        <tr> 
+            <td colspan="4" style="background-color: #DBDBDB;" class="cursor-hover" width="718"> 
+                <p class="cursor-hover"> 
+                    <strong>Arrest Details 
+                    </strong> 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td class="cursor-hover" width="113"> 
+                <p class="cursor-hover">Type of Airway
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="246"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="132"> 
+                <p class="cursor-hover">LMA Size
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="227"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td class="cursor-hover" width="113"> 
+                <p class="cursor-hover">ETT Size &amp; Marking
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="246"> 
+                <p class="cursor-hover">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mm /&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cm 
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="132"> 
+                <p class="cursor-hover">Intubated by
+                </p> 
+            </td> 
+            <td class="cursor-hover" width="227"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+    </tbody>
+</table>
+<p class="cursor-hover">&nbsp;
+</p>
+<table width="718"> 
+    <tbody> 
+        <tr> 
+            <td colspan="7" style="background-color: #DBDBDB;" class="cursor-hover" width="718"> 
+                <p class="cursor-hover"> 
+                    <strong class="cursor-hover">Vital Signs Details 
+                    </strong> 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td class="cursor-hover" width="189"> 
+                <p class="cursor-hover">Signs 
+                </p> 
+            </td> 
+            <td colspan="3" class="cursor-hover" width="274"> 
+                <p class="cursor-hover">Code Call 
+                </p> 
+            </td> 
+            <td colspan="3" class="cursor-hover" width="255"> 
+                <p class="cursor-hover">Post Code 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="189"> 
+                <p>ECG Rhythm 
+                </p> 
+            </td> 
+            <td colspan="3" class="cursor-hover" width="274"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td colspan="3" class="cursor-hover" width="255"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="189"> 
+                <p>Heart Rate (min) 
+                </p> 
+            </td> 
+            <td colspan="3" class="cursor-hover" width="274"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+            <td colspan="3" class="cursor-hover" width="255"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="189"> 
+                <p>NIBP (mmHg) 
+                </p> 
+            </td> 
+            <td colspan="3" width="274"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td colspan="3" width="255"> 
+                <p class="cursor-hover">&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="189"> 
+                <p>Respiration (min) 
+                </p> 
+            </td> 
+            <td colspan="3" width="274"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td colspan="3" width="255"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="189"> 
+                <p>SaO 
+                    <sub>2 
+                    </sub> % 
+                </p> 
+            </td> 
+            <td colspan="3" width="274"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td colspan="3" width="255"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="189"> 
+                <p>GCS (/ 15) 
+                </p> 
+            </td> 
+            <td width="91"> 
+                <p>E : 
+                </p> 
+            </td> 
+            <td width="91"> 
+                <p>M : 
+                </p> 
+            </td> 
+            <td width="91"> 
+                <p>V : 
+                </p> 
+            </td> 
+            <td width="91"> 
+                <p>E : 
+                </p> 
+            </td> 
+            <td width="91"> 
+                <p>M : 
+                </p> 
+            </td> 
+            <td width="73"> 
+                <p>V : 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="189"> 
+                <p>Pupil Size (mm) 
+                </p> 
+            </td> 
+            <td colspan="3" width="274"> 
+                <p>Rt :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lt : 
+                </p> 
+            </td> 
+            <td colspan="3" width="255"> 
+                <p>Rt :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lt : 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="189"> 
+                <p>Pupil Reaction (-/+) 
+                </p> 
+            </td> 
+            <td colspan="3" width="274"> 
+                <p>Rt :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lt : 
+                </p> 
+            </td> 
+            <td colspan="3" width="255"> 
+                <p>Rt :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lt : 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="189"> 
+                <p>Glucometer 
+                </p> 
+            </td> 
+            <td colspan="2" width="183"> 
+                <p>Time:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mmol/L: 
+                </p> 
+            </td> 
+            <td colspan="2" width="183"> 
+                <p>Time:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mmol/L: 
+                </p> 
+            </td> 
+            <td colspan="2" width="164"> 
+                <p>Time:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mmol/L: 
+                </p> 
+            </td> 
+        </tr> 
+    </tbody>
+</table>
+<p>&nbsp;
+</p>
+<table width="718"> 
+    <tbody> 
+        <tr> 
+            <td colspan="6" style="background-color: #DBDBDB;" width="718"> 
+                <p> 
+                    <strong>Defibrillation Details 
+                    </strong> 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="85"> 
+                <p>Time 
+                </p> 
+            </td> 
+            <td width="151"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="135"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="124"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="121"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="102"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="85"> 
+                <p>Rhythm 
+                </p> 
+            </td> 
+            <td width="151"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="135"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="124"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="121"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="102"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="85"> 
+                <p>Joules 
+                </p> 
+            </td> 
+            <td width="151"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="135"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="124"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="121"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="102"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+    </tbody>
+</table>
+<p>&nbsp;
+</p>
+<table width="718"> 
+    <tbody> 
+        <tr> 
+            <td colspan="5" style="background-color: #DBDBDB;" width="718"> 
+                <p> 
+                    <strong>Medication and Intravenous Fluids Administration Details 
+                    </strong> 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="85"> 
+                <p>Time 
+                </p> 
+            </td> 
+            <td width="218"> 
+                <p>Drug / IV Fluids 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>Dose / Volume 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>Route / Site 
+                </p> 
+            </td> 
+            <td width="126"> 
+                <p>Remarks / Additives 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="85"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="218"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="126"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="85"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="218"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="126"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="85"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="218"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="126"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="85"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="218"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="126"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="85"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="218"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="126"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="85"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="218"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="126"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="85"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="218"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="126"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="85"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="218"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="126"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="85"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="218"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="126"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="85"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="218"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="126"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="85"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="218"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="126"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="85"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="218"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="126"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="85"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="218"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="145"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="126"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+    </tbody>
+</table>
+<p>&nbsp;
+</p>
+<table width="718"> 
+    <tbody> 
+        <tr> 
+            <td colspan="4" width="718"> 
+                <p> 
+                    <strong>Outcome of Arrest 
+                    </strong> 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="194"> 
+                <p>Outcome of Code 
+                </p> 
+            </td> 
+            <td width="181"> 
+                <p>Successful 
+                </p> 
+            </td> 
+            <td width="181"> 
+                <p>Unsuccessful 
+                </p> 
+            </td> 
+            <td width="162"> 
+                <p>Time of Death: 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="194"> 
+                <p>Remarks 
+                </p> 
+            </td> 
+            <td colspan="3" width="524"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="194"> 
+                <p>Form Completed by 
+                </p> 
+            </td> 
+            <td width="181"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="181"> 
+                <p>Date: 
+                </p> 
+            </td> 
+            <td width="162"> 
+                <p>Time: 
+                </p> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td width="194"> 
+                <p>Checked by 
+                </p> 
+            </td> 
+            <td width="181"> 
+                <p>&nbsp; 
+                </p> 
+            </td> 
+            <td width="181"> 
+                <p>Date: 
+                </p> 
+            </td> 
+            <td width="162"> 
+                <p>Time: 
+                </p> 
+            </td> 
+        </tr> 
+    </tbody>
+</table>
+<p>&nbsp;
+</p> 

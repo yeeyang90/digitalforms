@@ -1,0 +1,404 @@
+<div class="section"> 
+    <table style="width: 100%;border-bottom:2px solid black;" class="no-break-in-between" cellspacing="0" cellpadding="0"> 
+        <tbody> 
+            <tr> 
+                <td colspan="2" class="cursor-hover" style="vertical-align: top; text-align:center;"> 
+                    <p class="title cursor-hover"> POST ANAESTHETIC RECOVERY SCORE 
+                    </p> 
+                </td> 
+            </tr> 
+        </tbody> 
+    </table>
+</div>
+<br>
+<table style="font-size: 15px; border: 1px solid black; max-width: 900px;" width="100%"> 
+    <tbody> 
+        <tr> 
+            <td style="text-align:center; background-color: #c2c2c2; border: 1px solid black; width: 100%;" colspan="6"> 
+                <strong> ALDRETE SCORING 
+                </strong> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;"> 
+                <strong> 1. 
+                </strong> 
+            </td> 
+            <td style="text-align:left; width: 95%;" colspan="5"> 
+                <strong> 
+                    <u> VITAL SIGNS 
+                    </u> 
+                </strong> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 95%; font-size: 10px; vertical-align: top" colspan="5">Vital signs must be stable and consistent with age and pre-operative baseline. (Please circle the score) 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 5%;">a. 
+            </td> 
+            <td style="text-align:left; width: 60%;" colspan="2">Able to breathe deeply and cough freely 
+            </td> 
+            <td style="text-align:center; width: 10%;">2 
+            </td> 
+            <td style="text-align:center; width: 20%;">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 5%;">b. 
+            </td> 
+            <td style="text-align:left; width: 60%;" colspan="2">Dyspnea or limited breathing 
+            </td> 
+            <td style="text-align:center; width: 10%;">1 
+            </td> 
+            <td style="text-align:center; width: 20%;">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 5%;">c. 
+            </td> 
+            <td style="text-align:left; width: 60%;" colspan="2">Apnea 
+            </td> 
+            <td style="text-align:center; width: 10%;">0 
+            </td> 
+            <td style="text-align:center; width: 20%;">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 60%;" colspan="2">&nbsp; 
+            </td> 
+            <td style="text-align:center; width: 10%;">&nbsp; 
+            </td> 
+            <td style="text-align:center; width: 20%;">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 5%;">a. 
+            </td> 
+            <td style="text-align:left; width: 60%;" colspan="2">NIBP and pulse within 20% of pre-operative baseline 
+            </td> 
+            <td style="text-align:center; width: 10%;">2 
+            </td> 
+            <td style="text-align:center; width: 20%;">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 5%;">b. 
+            </td> 
+            <td style="text-align:left; width: 60%;" colspan="2">NIBP and pulse 20 - 40% of pre-operative baseline 
+            </td> 
+            <td style="text-align:center; width: 10%;">1 
+            </td> 
+            <td style="text-align:center; width: 20%;">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 5%;">c. 
+            </td> 
+            <td style="text-align:left; width: 60%;" colspan="2">NIBP and pulse &gt;40% of pre-operative baseline 
+            </td> 
+            <td style="text-align:center; width: 10%;">0 
+            </td> 
+            <td style="text-align:center; width: 20%;">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 60%;" colspan="2">&nbsp; 
+            </td> 
+            <td style="text-align:center; width: 10%;">&nbsp; 
+            </td> 
+            <td style="text-align:center; width: 20%;">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 5%;">a. 
+            </td> 
+            <td style="text-align:left; width: 60%;" colspan="2">O 
+                <sub> 2 
+                </sub> saturation &gt;92% on room air 
+            </td> 
+            <td style="text-align:center; width: 10%;">2 
+            </td> 
+            <td style="text-align:center; width: 20%;">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 5%;">b. 
+            </td> 
+            <td style="text-align:left; width: 60%;" colspan="2">O 
+                <sub> 2 
+                </sub> supplement to maintain saturation &gt;90% 
+            </td> 
+            <td style="text-align:center; width: 10%;">1 
+            </td> 
+            <td style="text-align:center; width: 20%;">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 5%;">c. 
+            </td> 
+            <td style="text-align:left; width: 60%;" colspan="2">O 
+                <sub> 2 
+                </sub> saturation &lt;90% even with O2 supplement/therapy 
+            </td> 
+            <td style="text-align:center; width: 10%;">0 
+            </td> 
+            <td style="text-align:center; width: 20%;">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 60%;" colspan="2">&nbsp; 
+            </td> 
+            <td style="text-align:center; width: 10%;">&nbsp; 
+            </td> 
+            <td style="text-align:center; width: 20%;">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 95%;" colspan="5"> 
+                <strong> 
+                    <u> PAIN 
+                    </u> 
+                </strong> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 95%;" colspan="5">The patient should have pain score less than 4 OR no pain prior to transfer. 
+                <br>The level of pain that the patient has should be acceptable to the patient. 
+                <br>The location, type, and intensity of pain should be consistent with anticipated post-operative discomfort. 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 5%;">a. 
+            </td> 
+            <td style="text-align:left; width: 30%;">Acceptability 
+            </td> 
+            <td style="text-align:left; width: 30%;">Yes 
+            </td> 
+            <td style="text-align:center; width: 10%;">2 
+            </td> 
+            <td style="text-align:center; width: 20%;">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 30%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 30%;">No 
+            </td> 
+            <td style="text-align:center; width: 10%;">1 
+            </td> 
+            <td style="text-align:center; width: 20%;">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:left; width: 100%;" colspan="6"> &nbsp; 
+            </td> 
+        </tr> 
+    </tbody>
+</table>
+<table style="font-size: 15px; border: 1px solid black; max-width: 900px;" width="100%"> 
+    <tbody> 
+        <tr> 
+            <td style="text-align:center; width: 5%;"> 
+                <strong>2. 
+                </strong> 
+            </td> 
+            <td style="text-align:left; width: 95%;" colspan="4"> 
+                <strong> 
+                    <u>LEVEL OF CONSCIOUSNESS 
+                    </u> 
+                </strong> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 95%; font-size: 10px; vertical-align: top" colspan="4"> Patient able to move voluntarily or on command. 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 5%;">a. 
+            </td> 
+            <td style="text-align:left; width: 60%;">Fully awake 
+            </td> 
+            <td style="text-align:center; width: 10%;">2 
+            </td> 
+            <td style="text-align:center; width: 20%;">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 5%;">b. 
+            </td> 
+            <td style="text-align:left; width: 60%;">Arousable on calling/responds to stimuli 
+            </td> 
+            <td style="text-align:center; width: 10%;">1 
+            </td> 
+            <td style="text-align:center; width: 20%;">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 5%;">c. 
+            </td> 
+            <td style="text-align:left; width: 60%;">Not responsive 
+            </td> 
+            <td style="text-align:center; width: 10%;">0 
+            </td> 
+            <td style="text-align:center; width: 20%;">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 100%;" colspan="5">&nbsp; 
+            </td> 
+        </tr> 
+    </tbody>
+</table>
+<table style="font-size: 15px; border: 1px solid black; max-width: 900px;" width="100%"> 
+    <tbody> 
+        <tr> 
+            <td style="text-align:center; width: 5%;"> 
+                <strong>3. 
+                </strong> 
+            </td> 
+            <td style="text-align:left; width: 95%;" colspan="4"> 
+                <strong> 
+                    <u>ACTIVITY LEVEL 
+                    </u> 
+                </strong> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 95%; font-size: 10px; vertical-align: top" colspan="4"> Patient able to move voluntarily or on command. 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 5%;">a. 
+            </td> 
+            <td style="text-align:left; width: 60%;">Move all extremities 
+            </td> 
+            <td style="text-align:center; width: 10%;">2 
+            </td> 
+            <td style="text-align:center; width: 20%;">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 5%;">b. 
+            </td> 
+            <td style="text-align:left; width: 60%;">Moves two extremities 
+            </td> 
+            <td style="text-align:center; width: 10%;">1 
+            </td> 
+            <td style="text-align:center; width: 20%;">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 5%;">c. 
+            </td> 
+            <td style="text-align:left; width: 60%;">No movement 
+            </td> 
+            <td style="text-align:center; width: 10%;">0 
+            </td> 
+            <td style="text-align:center; width: 20%;">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 100%;" colspan="5">&nbsp; 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:center; width: 5%;background-color: #c2c2c2; border-top: 1px solid black;">&nbsp; 
+            </td> 
+            <td style="text-align:left; width: 5%;background-color: #c2c2c2; border-top: 1px solid black;">&nbsp; 
+            </td> 
+            <td style="text-align:right; width: 60%; vertical-align:mid;background-color: #c2c2c2; border-top: 1px solid black;"> 
+                <strong>TOTAL SCORE : 
+                </strong> 
+            </td> 
+            <td style="text-align:center; width: 10%; vertical-align:bottom;background-color: #c2c2c2; border-top: 1px solid black;">_________ 
+            </td> 
+            <td style="text-align:left; width: 20%;background-color: #c2c2c2; border-top: 1px solid black;"> 
+                <i style="font-size:11px">(Maximum score = 12; 
+                    <br>Score &gt; 10 fit to transfer to ward) 
+                </i> 
+            </td> 
+        </tr> 
+    </tbody>
+</table>
+<table style="font-size: 15px; border: 1px solid black; max-width: 900px;" width="100%"> 
+    <tbody> 
+        <tr> 
+            <td colspan="2" style="text-align:left; width: 100%;"> 
+                <strong>Discharged by Anaesthetist: 
+                </strong> 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:left; width: 50%; height: 100px; vertical-align:bottom">_________________________________ 
+            </td> 
+            <td style="text-align:left; width: 50%; height: 100px; vertical-align:bottom">_________________________________ 
+            </td> 
+        </tr> 
+        <tr> 
+            <td style="text-align:left; width: 50%; vertical-align:top">(Sign &amp; Stamp) 
+            </td> 
+            <td style="text-align:left; width: 50%; vertical-align:top">(Date &amp; Time) 
+            </td> 
+        </tr> 
+    </tbody>
+</table> 
